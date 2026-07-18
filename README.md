@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <code><a href="https://linkedin.com/in/mohitbhatia" target="_blank"><kbd>🔷 LinkedIn</kbd></a></code> •
+  <code><a href="https://linkedin.com/in/mohitbhatia612" target="_blank"><kbd>🔷 LinkedIn</kbd></a></code> •
   <code><a href="mailto:your-email@example.com"><kbd>✉️ Email Me</kbd></a></code> •
   <code><a href="https://mohitbhatia-dev.vercel.app/" target="_blank"><kbd>🔶 Portfolio</kbd></a></code>
 </div>
