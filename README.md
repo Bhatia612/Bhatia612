@@ -18,15 +18,15 @@
 
 <p align="center">
   I didn't follow a roadmap — I broke things until I understood them.<br>
-  I build <b>systems that scale</b>, <b>APIs that don't lie</b>, and <b>interfaces that respect the user's time</b>, mostly across the <b>Node</b> and <b>Postgres</b> stack.<br><br>
+  <br>
   The architecture decision you make at 2am matters more than the feature you ship by morning.
 </p>
 
-<h2 align="center">
+<div align="center">
   <code><a href="https://linkedin.com/in/mohitbhatia" target="_blank"><kbd>🔷 LinkedIn</kbd></a></code> •
   <code><a href="mailto:your-email@example.com"><kbd>✉️ Email Me</kbd></a></code> •
   <code><a href="https://mohitbhatia-dev.vercel.app/" target="_blank"><kbd>🔶 Portfolio</kbd></a></code>
-</h2>
+</div>
 
 <br>
 
