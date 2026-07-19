@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Bhatia612.png" width="350" height="350" style="border-radius: 50%; border: 5px solid #C0132C; box-shadow: 0 0 20px #C0132C;" alt="Mohit Bhatia" />
+  <img src="https://github.com/Bhatia612.png" width="200" height="200" style="border-radius: 50%; border: 5px solid #C0132C; box-shadow: 0 0 20px #C0132C;" alt="Mohit Bhatia" />
 </div>
 
 <h2 align="center">⚡ Full Stack Engineer · Backend-Leaning ⚡<br><br></h2>
